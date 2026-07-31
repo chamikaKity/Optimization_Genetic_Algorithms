@@ -1,0 +1,4 @@
+Instance,Customers (n),Vehicles (K),Capacity (Q),Total demand,Min vehicles ceil(D/Q),Capacity utilisation,Demand min/mean/max,Best-known cost
+A-n32-k5,31,5,100,410,5,82.0%,1/13.2/24,784
+A-n54-k7,53,7,100,669,7,95.6%,2/12.6/36,1167
+A-n80-k10,79,10,100,942,10,94.2%,1/11.9/26,1764

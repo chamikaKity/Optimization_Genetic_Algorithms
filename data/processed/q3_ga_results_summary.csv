@@ -1,0 +1,4 @@
+Instance,GA distance (raw),After 2-opt,Best-known,Gap to optimum,Routes used / K
+A-n32-k5,955,950,784,21.17%,5/5
+A-n54-k7,1593,1496,1167,28.19%,7/7
+A-n80-k10,2930,2662,1764,50.91%,10/10

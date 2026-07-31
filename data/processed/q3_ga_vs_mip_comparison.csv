@@ -1,0 +1,4 @@
+Instance,GA gap %,MIP gap %,GA time (s),MIP time (s),MIP status
+A-n32-k5,21.17,11.73,,300.1,Time limit
+A-n54-k7,28.19,,,300.1,No feasible solution
+A-n80-k10,50.91,57.43,,300.1,Time limit
